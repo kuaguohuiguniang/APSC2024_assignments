@@ -1,0 +1,8 @@
+README should explain what the code is about and how to compile and run it.
+
+Avoid implementing everything inside the main.cpp.
+
+You should split the implementation of different strategies for the computation of the learning rate into different functions instead of commenting the lines.
+I would have expected you to read the optimization parameters from file and to implement the third strategy for the computation of the learning rate.
+
+The results are correct.
